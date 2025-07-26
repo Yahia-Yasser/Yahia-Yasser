@@ -12,22 +12,22 @@
   <h3>📬 Connect With Me</h3>
 
   <p align="center">
-    <a href="https://t.me/yahia_yasser" target="_blank">
+    <a href="@Yahiayasser24" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/yahia-yasser" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/yahia.yasser" target="_blank">
+    <a href="[https://www.instagram.com/yahia.yasser](https://www.instagram.com/y_a_h_i_a_2006/)" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://www.facebook.com/yahia.yasser" target="_blank">
+    <a href="[https://www.facebook.com/yahia.yasser](https://www.facebook.com/yhyy.alshykh.705451)" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
-    <a href="https://www.tiktok.com/@yahia.yasser" target="_blank">
+    <a href="[https://www.tiktok.com/@yahia.yasser](https://www.tiktok.com/@ya7yayasser?lang=ar)" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
     </a>
-    <a href="mailto:yahia.yasser@email.com" target="_blank">
+    <a href="y00987354@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
