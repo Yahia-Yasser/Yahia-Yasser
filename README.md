@@ -25,4 +25,49 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/G)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=flat&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yahia-Yasser&show_icons=true&theme=radical" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahia-Yasser&layout=compact&theme=radical" width="45%">
+
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://t.me/yahia_yasser" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yahia-yasser" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yahia.yasser" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yahia_yasser" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:yahia.yasser@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+> “Keep coding, keep growing.” 🌱  
+> — Yahia Yasser
+
+</div>
