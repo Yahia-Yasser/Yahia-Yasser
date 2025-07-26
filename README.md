@@ -7,7 +7,6 @@
   
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Coding..." />
 
-  <!-- 🔻 CONNECT SECTION MOVED HERE -->
   <br><br>
   <h3>📬 Connect With Me</h3>
 
@@ -47,29 +46,4 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=flat&logo=gnu-bash&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yahia-Yasser&show_icons=true&theme=radical" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahia-Yasser&layout=compact&theme=radical" width="45%">
-
-</div>
-
----
-
-<div align="center">
-  
-> “Keep coding, keep growing.” 🌱  
-> — Yahia Yasser
-
-</div>
+![HTML5](https://)
